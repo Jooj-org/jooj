@@ -11,6 +11,7 @@
     "icons": {
         "256": "img/icon.png"
     },
-    "permissions": ["tabs", "storage","activeTab"]
+    "permissions": ["tabs", "storage","activeTab","notifications",
+                    "http://*/","https://*/"]
 
 }
